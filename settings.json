@@ -1,0 +1,48 @@
+    "workbench.colorCustomizations": {
+    
+      "[Andromeda*]":{
+        "dropdown.background": "#291641",
+        "activityBar.background": "#291641",
+        "sideBar.background": "#291641",
+        "toolbar.hoverBackground": "#8119d0",
+        "editorGroup.border": "#7900d6",
+        "editorCursor.foreground": "#f309e4",
+        "editor.background": "#2f1f40",
+        "editor.foreground": "#6a286b",
+        "editorLineNumber.activeForeground": "#fa81fc",
+        "editor.lineHighlightBackground": "#4c3266",
+        "editor.lineHighlightBorder":"#4c3266",
+        "icon.foreground": "#45b8ff",
+        "window.activeBorder": "#291641",
+        "textSeparator.foreground": "#ff0000",
+        "foreground": "#8d4dd1",
+        "debugToolBar.background": "#2f1f40",
+        "debugToolBar.border": "#2f1f40",
+        "tab.inactiveBackground": "#4d2874",
+        "tab.activeBackground": "#8746cc",
+        "editorGroupHeader.tabsBackground": "#291641",
+        "debugConsole.errorForeground": "#ff0000",
+        "quickInputTitle.background": "#ff0000",
+        "titleBar.activeBackground": "#703aaa",
+        "titleBar.inactiveBackground": "#291641",
+        "sideBarSectionHeader.background":"#291641",
+        "statusBar.background": "#291641",
+        "panel.background": "#291641"
+
+      },
+      
+    
+    },
+
+    "editor.tokenColorCustomizations":{
+      "[Andromeda*]": {
+        "variables": "#de2aab",
+        "keywords": "#95b7e9",
+        "functions": "#f95dc5",
+        "types": "#6a5eeb",
+        "strings": "#07ff03",
+        "numbers": "#33ffe4"
+        
+
+    }
+    }
