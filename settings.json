@@ -1,5 +1,6 @@
-    "workbench.colorCustomizations": {
+"workbench.colorCustomizations": {
     
+ 
       "[Andromeda*]":{
         "dropdown.background": "#291641",
         "activityBar.background": "#291641",
@@ -27,7 +28,13 @@
         "titleBar.inactiveBackground": "#291641",
         "sideBarSectionHeader.background":"#291641",
         "statusBar.background": "#291641",
-        "panel.background": "#291641"
+        "panel.background": "#291641",
+        "terminal.foreground": "#ff91f4",
+        //#34acc7"
+        "terminalCursor.foreground": "#a600ff",
+        "list.activeSelectionBackground": "#7e0bc0",
+        "list.hoverBackground": "#4b0773",
+        "list.inactiveSelectionBackground": "#7e0bc0"
 
       },
       
@@ -39,7 +46,7 @@
         "variables": "#de2aab",
         "keywords": "#95b7e9",
         "functions": "#f95dc5",
-        "types": "#6a5eeb",
+        "types": "#9389ff",
         "strings": "#07ff03",
         "numbers": "#33ffe4"
         
